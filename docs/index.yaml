@@ -3,12 +3,12 @@ entries:
   msa-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-18T17:35:44.0354847+01:00"
+    created: "2025-02-18T21:54:17.8525838+01:00"
     description: A Helm chart for Kubernetes
-    digest: b3004f8e34ac07083bd104bd547b3acc28dade05b48a3daaff99a27b5aeb9f6b
+    digest: 12e804328613358e82c53a3fe7eb300af0d566ba0a382e5d1025025dfaa43305
     name: msa-app
     type: application
     urls:
     - https://anullpointerexception.github.io/helm-charts/msa-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-18T17:35:44.0354847+01:00"
+generated: "2025-02-18T21:54:17.8525838+01:00"
