@@ -3,13 +3,13 @@ entries:
   msa-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-23T10:36:41.494555606+02:00"
+    created: "2025-10-23T10:49:35.608617416+02:00"
     description: A Helm chart for microservice applications with comprehensive configuration
       support
-    digest: 697f02f9f5e566ba7b89202f9d8a8ed1ecd6e050f461fb404918e96c8cf892f7
+    digest: 93e48bf0071fd31b15a63d02404075c9da53736eed6f5f9190fb95f9c963bd43
     name: msa-app
     type: application
     urls:
-    - https://anullpointerexception.github.io/helm-charts/msa-app-0.1.5.tgz
-    version: 0.1.5
-generated: "2025-10-23T10:36:41.490607561+02:00"
+    - https://anullpointerexception.github.io/helm-charts/msa-app-0.1.6.tgz
+    version: 0.1.6
+generated: "2025-10-23T10:49:35.604614961+02:00"
